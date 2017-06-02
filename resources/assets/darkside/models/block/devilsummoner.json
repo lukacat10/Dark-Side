@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"textures": {
+		"0": "darkside:blocks/devilfront",
+		"1": "darkside:blocks/devilsides",
+		"2": "darkside:blocks/deviltopbottom",
+		"particle": "darkside:blocks/devilsides"
+	},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [0, 0, 0],
+			"to": [32, 16, 32],
+			"shade": true,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#2",
+					"rotation": 270
+				},
+				"down": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#2",
+					"rotation": 270
+				}
+			},
+			"rotation": {
+				"origin": [1, 0.5, 1],
+				"axis": "y",
+				"angle": 0
+			}
+		}
+	]
+}
