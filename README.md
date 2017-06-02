@@ -10,3 +10,10 @@ A minecraft mod.
 
 ## Pull Requests:
 1. WILL ONLY BE ACCEPTED WITH THE SAME LICENSE APPLIED TO THEM (Mozilla Public License 2).
+
+## Recommended Software:
+* Eclipse/Intellij
+* Notepad++
+* Paint.net
+* Photoshop/GIMP
+* BlockBench: http://server.zofenia.de/blockbench/index.html
