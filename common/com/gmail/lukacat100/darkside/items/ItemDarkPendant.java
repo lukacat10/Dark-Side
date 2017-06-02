@@ -29,7 +29,7 @@ public class ItemDarkPendant extends Item {
 	}
 	@SideOnly(Side.CLIENT)//TODO: Test if this is neccasery.
 	public static void initClient(ItemModelMesher imm){
-		ModelResourceLocation model = new ModelResourceLocation(DarkSide.MOD_RESOURCE_PREFIX + NAME);//TODO: Check if "inventory" parameter is neccasery!
+		ModelResourceLocation model = new ModelResourceLocation(DarkSide.MOD_RESOURCE_PREFIX + NAME, "inventory");//TODO: Check if "inventory" parameter is neccasery!
 		ModelLoader.registerItemVariants(ItemDarkPendant_instance, model);//TODO: may receive multiple models... check why
 		imm.register(ItemDarkPendant_instance, 0, model);//TODO: Why it doesnt get more models?
 	}
