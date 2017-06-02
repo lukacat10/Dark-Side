@@ -1,5 +1,6 @@
 # Dark-Side
-A minecraft mod. More info to be added.
+Time to experience the Dark Side.
+A minecraft mod.
 
 ### Structure of the project:
 * Project consists of the main package which includes the main class: com.gmail.lukacat100.darkside.DarkSide.
