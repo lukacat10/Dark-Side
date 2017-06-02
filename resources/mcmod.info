@@ -1,0 +1,12 @@
+[
+{
+	"modid": "darkside",
+	"name": "The Dark Side",
+	"description": "The Dark Side Is Here..",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"url": "http://google.com",
+	"authors": ["lukacat10"],
+	"credits": "lukacat10"
+}
+]
