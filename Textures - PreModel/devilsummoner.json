@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"0": "darkside:blocks/devilfront_right",
-		"1": "darkside:blocks/devilfront_left",
-		"2": "darkside:blocks/devilsides_right",
-		"3": "darkside:blocks/deviltopbottom",
-		"4": "darkside:blocks/devilsides_left",
-		"particle": "darkside:blocks/devilfront_right"
+		"0": "Textures - PreModel/devilfront_right",
+		"1": "Textures - PreModel/devilfront_left",
+		"2": "Textures - PreModel/devilsides_right",
+		"3": "Textures - PreModel/deviltopbottom",
+		"4": "Textures - PreModel/devilsides_left",
+		"particle": "Textures - PreModel/devilfront_right"
 	},
 	"elements": [
 		{
